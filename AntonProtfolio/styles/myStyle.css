@@ -1,0 +1,125 @@
+body {
+    direction: rtl;
+    background: url('../images/pexels-photo-220067.jpeg')
+    no-repeat center top;
+    
+}
+#container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  
+}
+
+
+li {
+    float: right;
+    border-left: 1px solid #bbb;
+    display: block;
+    padding-right: 127px;
+    text-align:center;
+}
+
+    li a {
+        display:block;
+        color: white;
+        font-family:Tahoma;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+       
+        
+    }
+
+        li a:hover {
+            background-color: #111;
+        }
+    
+
+#newyear1 {
+    padding: 35px;
+    position: absolute;
+    right: 430px;
+    top: 170px;
+}
+#newex {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    font-family: Tahoma;
+    background-color: bisque;
+    padding: 20px;
+}
+#com1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+    font-family: Tahoma;
+}
+#com {
+    padding-right: 5px;
+    position: absolute;
+    right: 333px;
+    top: 24px;
+}
+#com2 {
+    padding: 0px
+    ;
+    position: absolute;
+    right: 357px;
+    top: 196px;
+}
+#act {
+    position: absolute;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    right: 460px;
+    top: 175px;
+}
+#act1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+    font-family:Tahoma;
+}
+h1 {
+    color: bisque;
+    text-align: center;
+    font-size: 48px;
+    font-family: Tahoma;
+    text-shadow: 3px 2px #360d71;
+    padding:20px;
+}
+#homeinfo {
+    color: bisque;
+    text-align: center;
+    font-size: 42px;
+    font-family: Tahoma;
+    text-shadow: 3px 2px #360d71
+}
+h2 {
+    color: bisque;
+    text-align: center;
+    font-size: 42px;
+    font-family: Tahoma;
+    text-shadow: 3px 2px #360d71
+}
+#sound {
+    padding: 0px;
+    position: absolute;
+    top: 206px;
+    right: 181px
+}
